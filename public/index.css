@@ -1,0 +1,15 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-gray-white);
+}
+.home-button {
+  padding: 0.5rem;
+  margin-top: 1rem;
+  text-align: center;
+}
